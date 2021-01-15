@@ -4,4 +4,4 @@ read me file add
 
 # Git-Github Advance
 
-readme file update
+Created 3 branch and merged to the master and push to the github with branches
